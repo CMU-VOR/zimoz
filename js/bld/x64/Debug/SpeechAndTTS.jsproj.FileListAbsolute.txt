@@ -1,0 +1,52 @@
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\de-DE\SRGSColors.xml
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\en-GB\SRGSColors.xml
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\en-CA\SRGSColors.xml
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\en-AU\SRGSColors.xml
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\en-IN\SRGSColors.xml
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\en-US\SRGSColors.xml
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\es-ES\SRGSColors.xml
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\fr-FR\SRGSColors.xml
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\it-IT\SRGSColors.xml
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\zh-Hans-CN\SRGSColors.xml
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\ReverseMap\resources.pri
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\AppxManifest.xml
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SpeechAndTTS.build.appxrecipe
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\ResourceHandlingTask.state
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\priconfig.xml
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\priconfig.xml.intermediate
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\layout.resfiles
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\layout.resfiles.intermediate
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\resources.resfiles
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\resources.resfiles.intermediate
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\pri.resfiles
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\pri.resfiles.intermediate
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\qualifiers.txt
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\qualifiers.txt.intermediate
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+\\vmware-host\Shared Folders\Documents\voice project\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\ProjectArchitectures.txt
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\de-DE\SRGSColors.xml
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\en-GB\SRGSColors.xml
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\en-CA\SRGSColors.xml
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\en-AU\SRGSColors.xml
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\en-IN\SRGSColors.xml
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\en-US\SRGSColors.xml
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\es-ES\SRGSColors.xml
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\fr-FR\SRGSColors.xml
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\it-IT\SRGSColors.xml
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SRGS\zh-Hans-CN\SRGSColors.xml
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\ReverseMap\resources.pri
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\AppxManifest.xml
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\SpeechAndTTS.build.appxrecipe
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\ResourceHandlingTask.state
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\priconfig.xml
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\priconfig.xml.intermediate
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\layout.resfiles
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\layout.resfiles.intermediate
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\resources.resfiles
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\resources.resfiles.intermediate
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\pri.resfiles
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\pri.resfiles.intermediate
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\qualifiers.txt
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\qualifiers.txt.intermediate
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\ProjectArchitectures.txt

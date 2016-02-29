@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-1VH7GEL</Machine>
+    <WindowsUser>Zimo</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>5e5e1e48-1590-4f46-94b3-4939114dbc46</PackageIdentityName>
+    <IntermediateOutputPath>C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bld\x64\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>ECE953622A875BC277B186567E823667D0B349DE355914BDA34E84D92957E7D7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Microsoft.SDKSamples.SpeechAndTTS.JS_1.0.0.0_x64__8wekyb3d8bbwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Microsoft.SDKSamples.SpeechAndTTS.JS_8wekyb3d8bbwe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Microsoft.SDKSamples.SpeechAndTTS.JS</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T23:40:39.537</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\css\scenario7_ContinuousDictation.css">
+      <PackagePath>css\scenario7_ContinuousDictation.css</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\js\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\css\ui-dark.css">
+      <PackagePath>Microsoft.WinJS.4.0\css\ui-dark.css</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\css\ui-light.css">
+      <PackagePath>Microsoft.WinJS.4.0\css\ui-light.css</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\js\sample-utils\scenario-select.css">
+      <PackagePath>sample-utils\scenario-select.css</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\js\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\html\scenario5_ListConstraint.html">
+      <PackagePath>html\scenario5_ListConstraint.html</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\html\scenario4_PredefinedWebSearchGrammar.html">
+      <PackagePath>html\scenario4_PredefinedWebSearchGrammar.html</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\html\scenario1_SynthesizeText.html">
+      <PackagePath>html\scenario1_SynthesizeText.html</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\html\scenario6_SRGSConstraint.html">
+      <PackagePath>html\scenario6_SRGSConstraint.html</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\html\scenario7_ContinuousDictation.html">
+      <PackagePath>html\scenario7_ContinuousDictation.html</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\html\scenario2_SynthesizeSSML.html">
+      <PackagePath>html\scenario2_SynthesizeSSML.html</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\html\scenario8_ContinuousRecognitionListGrammar.html">
+      <PackagePath>html\scenario8_ContinuousRecognitionListGrammar.html</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\html\scenario10_PauseAsync.html">
+      <PackagePath>html\scenario10_PauseAsync.html</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\html\scenario9_ContinuousRecognitionSRGSGrammar.html">
+      <PackagePath>html\scenario9_ContinuousRecognitionSRGSGrammar.html</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\html\scenario3_PredefinedDictationGrammar.html">
+      <PackagePath>html\scenario3_PredefinedDictationGrammar.html</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\js\sample-utils\footer.html">
+      <PackagePath>sample-utils\footer.html</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\js\sample-utils\header.html">
+      <PackagePath>sample-utils\header.html</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\js\sample-utils\scenario-select.html">
+      <PackagePath>sample-utils\scenario-select.html</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\media\microsoft-sdk.png">
+      <PackagePath>images\microsoft-sdk.png</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\media\smalltile-sdk.png">
+      <PackagePath>images\smallTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\media\splash-sdk.png">
+      <PackagePath>images\splash-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\media\storelogo-sdk.png">
+      <PackagePath>images\storeLogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\media\tile-sdk.png">
+      <PackagePath>images\tile-sdk.png</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\media\windows-sdk.png">
+      <PackagePath>images\windows-sdk.png</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\js\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\js\AudioCapturePermissions.js">
+      <PackagePath>js\AudioCapturePermissions.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\js\sample-configuration.js">
+      <PackagePath>js\sample-configuration.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\js\scenario4_PredefinedWebSearchGrammar.js">
+      <PackagePath>js\scenario4_PredefinedWebSearchGrammar.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\js\scenario5_ListConstraint.js">
+      <PackagePath>js\scenario5_ListConstraint.js</PackagePath>
+      <Modified>2016-02-29T23:43:43.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\js\scenario1_SynthesizeText.js">
+      <PackagePath>js\scenario1_SynthesizeText.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\js\scenario7_ContinuousDictation.js">
+      <PackagePath>js\scenario7_ContinuousDictation.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\js\scenario2_SynthesizeSSML.js">
+      <PackagePath>js\scenario2_SynthesizeSSML.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\js\scenario8_ContinuousRecognitionListGrammar.js">
+      <PackagePath>js\scenario8_ContinuousRecognitionListGrammar.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\js\scenario10_PauseAsync.js">
+      <PackagePath>js\scenario10_PauseAsync.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\js\scenario9_ContinuousRecognitionSRGSGrammar.js">
+      <PackagePath>js\scenario9_ContinuousRecognitionSRGSGrammar.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\js\scenario3_PredefinedDictationGrammar.js">
+      <PackagePath>js\scenario3_PredefinedDictationGrammar.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\js\scenario6_SRGSConstraint.js">
+      <PackagePath>js\scenario6_SRGSConstraint.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\en-US\ui.strings.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\WinJS.intellisense-setup.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\WinJS.intellisense-setup.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\WinJS.intellisense.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\WinJS.intellisense.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\base.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\base.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\ui.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\ui.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\SharedContent\js\sample-utils\sample-utils.js">
+      <PackagePath>sample-utils\sample-utils.js</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\shared\SRGS\de-DE\SRGSColors.xml">
+      <PackagePath>SRGS\de-DE\SRGSColors.xml</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\shared\SRGS\en-GB\SRGSColors.xml">
+      <PackagePath>SRGS\en-GB\SRGSColors.xml</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\shared\SRGS\en-CA\SRGSColors.xml">
+      <PackagePath>SRGS\en-CA\SRGSColors.xml</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\shared\SRGS\en-AU\SRGSColors.xml">
+      <PackagePath>SRGS\en-AU\SRGSColors.xml</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\shared\SRGS\en-IN\SRGSColors.xml">
+      <PackagePath>SRGS\en-IN\SRGSColors.xml</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\shared\SRGS\en-US\SRGSColors.xml">
+      <PackagePath>SRGS\en-US\SRGSColors.xml</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\shared\SRGS\es-ES\SRGSColors.xml">
+      <PackagePath>SRGS\es-ES\SRGSColors.xml</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\shared\SRGS\fr-FR\SRGSColors.xml">
+      <PackagePath>SRGS\fr-FR\SRGSColors.xml</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\shared\SRGS\it-IT\SRGSColors.xml">
+      <PackagePath>SRGS\it-IT\SRGSColors.xml</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\shared\SRGS\zh-Hans-CN\SRGSColors.xml">
+      <PackagePath>SRGS\zh-Hans-CN\SRGSColors.xml</PackagePath>
+      <Modified>2016-02-03T21:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\bin\x64\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-02-29T23:40:39.365</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
